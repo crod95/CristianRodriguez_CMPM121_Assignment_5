@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: b23623621a837a34584ddd45dcf140bc
+  - enabled: 1
+    path: Assets/Scenes/Helio.unity
+    guid: 05690d9cecda41444b7eec6448594da2
+  m_configObjects: {}
