@@ -11,7 +11,7 @@ will be 6 of them), the door to the next area will be open. In that area,
 collect the next the 4 floating cubes to open the final door.
 
 Assets added:
-1)PBRMaterials
-2)Sand textures pack
-3)SandBrick1
-4)WorldSkies
+1)PBRMaterials: https://github.com/crod95/Test001B/tree/master/Assets/PBRMaterials
+2)Sand textures pack: https://github.com/crod95/Test001B/tree/master/Assets/Sand%20textures%20pack
+3)SandBrick1: https://github.com/crod95/Test001B/tree/master/Assets/SandBrick1
+4)WorldSkies: https://github.com/crod95/Test001B/tree/master/Assets/WorldSkies
